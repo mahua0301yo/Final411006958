@@ -179,7 +179,7 @@ def trading_strategy(stock, strategy_name):
 
 # 主函數
 def main():
-    st.title("資科三A 411006958 王建驊")
+    st.title("大妹愛小妹")
 
     # 選擇資料區間
     st.sidebar.subheader("選擇資料區間")
