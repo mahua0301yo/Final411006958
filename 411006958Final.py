@@ -179,7 +179,7 @@ def trading_strategy(stock, strategy_name):
 
 # 主函數
 def main():
-    st.title("02")
+    st.title("股票預測")
 
     # 選擇資料區間
     st.sidebar.subheader("選擇資料區間")
